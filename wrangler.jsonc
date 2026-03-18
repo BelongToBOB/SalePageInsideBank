@@ -1,4 +1,7 @@
 {
   "name": "insidebusinessfinancepage",
-  "compatibility_date": "2025-03-18"
+  "compatibility_date": "2025-03-18",
+  "assets": {
+    "directory": "./dist"
+  }
 }
